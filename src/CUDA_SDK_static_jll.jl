@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("CUDA_SDK_static")
-JLLWrappers.@generate_main_file("CUDA_SDK_static", UUID("8d8e3561-0b33-5a1a-a72b-b83d4fb556a1"))
+JLLWrappers.@generate_main_file("CUDA_SDK_static", Base.UUID("8d8e3561-0b33-5a1a-a72b-b83d4fb556a1"))
 end  # module CUDA_SDK_static_jll
