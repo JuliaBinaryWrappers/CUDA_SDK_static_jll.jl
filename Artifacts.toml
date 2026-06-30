@@ -1,21 +1,21 @@
 [[CUDA_SDK_static]]
 arch = "x86_64"
-git-tree-sha1 = "4a9a6546d5df219358e2586853099c972353bf84"
+git-tree-sha1 = "eeb5c229aee83fba68cb055ec56a5fdf4f7324ea"
 libc = "glibc"
 os = "linux"
 
     [[CUDA_SDK_static.download]]
-    sha256 = "6c09907263f67ea4a22045e937820fdab5f67f7ef338efc5b33604791b412382"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_static_jll.jl/releases/download/CUDA_SDK_static-v13.3.0+0/CUDA_SDK_static.v13.3.0.x86_64-linux-gnu.tar.xz"
+    sha256 = "bf9e2e786ca713e44917c789f45937d0766beae171cac7b076616a2e4988882b"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_static_jll.jl/releases/download/CUDA_SDK_static-v13.3.1+0/CUDA_SDK_static.v13.3.1.x86_64-linux-gnu.tar.xz"
 [[CUDA_SDK_static]]
 arch = "aarch64"
-git-tree-sha1 = "75761f98cbee49de06ac9f44c24a8f95c7e55755"
+git-tree-sha1 = "40bf189c9d7b19faa834a910ef4d42d4a574c366"
 libc = "glibc"
 os = "linux"
 
     [[CUDA_SDK_static.download]]
-    sha256 = "90a970740e1a632016a0c74ec5b42b48855616bd5027e247c3a3165bd8ac1018"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_static_jll.jl/releases/download/CUDA_SDK_static-v13.3.0+0/CUDA_SDK_static.v13.3.0.aarch64-linux-gnu.tar.xz"
+    sha256 = "92413a3226ece0d7fb4d3aef787416b11345ec352d3ae8f3a58f50305f95e591"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_static_jll.jl/releases/download/CUDA_SDK_static-v13.3.1+0/CUDA_SDK_static.v13.3.1.aarch64-linux-gnu.tar.xz"
 [[CUDA_SDK_static]]
 arch = "x86_64"
 git-tree-sha1 = "df63ff39c123156bcedc6f1c093d304cf5c71b24"
@@ -23,4 +23,4 @@ os = "windows"
 
     [[CUDA_SDK_static.download]]
     sha256 = "71f14a562db6e99306665279fde371e2b9f4aacd1b75b33cbfb40603e6d1f933"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_static_jll.jl/releases/download/CUDA_SDK_static-v13.3.0+0/CUDA_SDK_static.v13.3.0.x86_64-w64-mingw32.tar.xz"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_static_jll.jl/releases/download/CUDA_SDK_static-v13.3.1+0/CUDA_SDK_static.v13.3.1.x86_64-w64-mingw32.tar.xz"
