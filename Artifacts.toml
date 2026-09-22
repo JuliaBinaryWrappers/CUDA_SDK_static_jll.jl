@@ -1,26 +1,26 @@
 [[CUDA_SDK_static]]
 arch = "x86_64"
-git-tree-sha1 = "45924bbd90e1d295abd484bdb9d50cb50f3d3cc5"
+git-tree-sha1 = "0815e26fbdea5b63cf058fd266055178b31a51df"
 libc = "glibc"
 os = "linux"
 
     [[CUDA_SDK_static.download]]
-    sha256 = "1aeac86926ce31ae25e4426405ebee252871f137679d04c8576c90a88950e365"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_static_jll.jl/releases/download/CUDA_SDK_static-v13.4.1+0/CUDA_SDK_static.v13.4.1.x86_64-linux-gnu.tar.xz"
+    sha256 = "e73dfac76e718ad00763e52192343a04647fb9d0a2005658f3e6928e1e8843bf"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_static_jll.jl/releases/download/CUDA_SDK_static-v13.4.2+0/CUDA_SDK_static.v13.4.2.x86_64-linux-gnu.tar.xz"
 [[CUDA_SDK_static]]
 arch = "aarch64"
-git-tree-sha1 = "94534f79a5650456bc456f2b2d26b96c6a5a4921"
+git-tree-sha1 = "b6ed6dae9702e1af46266d22e2f33ae3f576d947"
 libc = "glibc"
 os = "linux"
 
     [[CUDA_SDK_static.download]]
-    sha256 = "dd33157cd3fc9ff984b9cf84beaefb995434bebb344242cba2152934ab3134cb"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_static_jll.jl/releases/download/CUDA_SDK_static-v13.4.1+0/CUDA_SDK_static.v13.4.1.aarch64-linux-gnu.tar.xz"
+    sha256 = "51b4787c717d8723bc686990d23c6d84d88adf9a4b0fb3c813b9ab91a8b54194"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_static_jll.jl/releases/download/CUDA_SDK_static-v13.4.2+0/CUDA_SDK_static.v13.4.2.aarch64-linux-gnu.tar.xz"
 [[CUDA_SDK_static]]
 arch = "x86_64"
-git-tree-sha1 = "5c56fd6161d0dd1bf06fef63651548ea57dd4798"
+git-tree-sha1 = "919279dbb3f111637c9fb557549024dc684ff06b"
 os = "windows"
 
     [[CUDA_SDK_static.download]]
-    sha256 = "448ddb8141277f26ba1ce452f84e9c51933f2d0d936c1a23d75482e248c6ed1a"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_static_jll.jl/releases/download/CUDA_SDK_static-v13.4.1+0/CUDA_SDK_static.v13.4.1.x86_64-w64-mingw32.tar.xz"
+    sha256 = "3ac6f10e124b6d644732a47140b95b1b65fda7f782417618f0e8f251f7b1d688"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_SDK_static_jll.jl/releases/download/CUDA_SDK_static-v13.4.2+0/CUDA_SDK_static.v13.4.2.x86_64-w64-mingw32.tar.xz"
